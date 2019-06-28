@@ -1,0 +1,2 @@
+# statlect
+Notes and 
